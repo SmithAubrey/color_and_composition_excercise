@@ -1,0 +1,13 @@
+body {
+  background-color: #dbc2ff;
+  color: #58149c;
+  font-family: "Outfit", sans-serif;
+}
+
+
+.outfit-<uniquifier> {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
